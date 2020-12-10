@@ -1,0 +1,22 @@
+.flex1 {
+  display: flex;
+  width: 100%
+  height: auto;
+  background-color: #0600BE
+}
+
+
+.btn-primary {
+  color: white;
+  background-color: #FF0000;
+}
+
+.btn-primary: hover {
+  color: white;
+  background-color: #FF4a4a;
+}
+
+
+.btn {
+  margin-top: 25px;
+}
