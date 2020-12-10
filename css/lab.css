@@ -31,3 +31,11 @@ h1 {
   margin-top: 25px;
   border: none;
 }
+
+
+footer {
+  color: white;
+  background-color: #0600BE;
+  position: center;
+  padding: 10px;
+}
