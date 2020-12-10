@@ -1,6 +1,6 @@
 h1 {
   color: white;
-  font-size: 85px;
+  font-size: 50px;
   font-family: halcom,sans-serif !important;
   font-weight: 800;
   font-style: normal;
@@ -54,4 +54,6 @@ h1 {
 a {
   color: white;
   font-family: halcom,sans-serif !important;
+  font-weight: 800;
+  font-style: normal;
 }
