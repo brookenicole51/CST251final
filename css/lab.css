@@ -1,6 +1,6 @@
 h1 {
   color: white;
-  font-size: 300%;
+  font-size: 85px;
   font-family: halcom,sans-serif !important;
   font-weight: 800;
   font-style: normal;
@@ -16,8 +16,8 @@ h1 {
 
 .dropdown {
   position: absolute;
-  top: 2%;
-  left: 80%;
+  top: .1%;
+  left: 85%;
 }
 
 .btn-primary {
@@ -49,4 +49,9 @@ h1 {
   background-color: #0600BE;
   position: center;
   padding: 10px;
+}
+
+a {
+  color: white;
+  font-family: halcom,sans-serif !important;
 }
