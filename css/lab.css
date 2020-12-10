@@ -33,11 +33,12 @@ h1 {
 }
 
 
-footer {
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
   color: white;
   background-color: #0600BE;
   position: center;
   padding: 10px;
-  left: 0;
-  bottom: 0;
 }
