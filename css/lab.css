@@ -1,22 +1,30 @@
+h1 {
+  color: white;
+  font-size: 130%;
+}
+
 .flex1 {
   display: flex;
-  width: 100%
+  width: 100%;
   height: auto;
-  background-color: #0600BE
+  background-color: #0600BE;
+  padding: 20px;
 }
 
 
 .btn-primary {
   color: white;
   background-color: #FF0000;
+  border: none;
 }
 
 .btn-primary: hover {
   color: white;
   background-color: #FF4a4a;
+  border: none;
 }
-
 
 .btn {
   margin-top: 25px;
+  border: none;
 }
