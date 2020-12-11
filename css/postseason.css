@@ -79,15 +79,7 @@ h1 {
   background-color: #00A4FF;
 }
 
-img {
-  width: 50%;
-  height: auto;
-  border-left: 10px solid #0600BE;
-  border-right: 10px solid #0600BE;
-  border-bottom: 10px solid #0600BE;
-  margin-left: 50px;
-  margin-bottom: 30px;
-}
+
 
 .info {
   padding-top: 100px;
