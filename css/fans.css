@@ -99,6 +99,13 @@ img {
   font-style: normal;
 }
 
+.dodgers_nofans {
+  border-top: 10px solid #0600BE;
+}
+
+.mets_closeup {
+  border-top: 10px solid #0600BE;
+}
 
 .footer {
   position: fixed;
