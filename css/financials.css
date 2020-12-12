@@ -6,6 +6,10 @@ h1 {
   font-style: normal;
 }
 
+.statue {
+  border-top: 10px solid blue;
+}
+
 .flex1 {
   display: flex;
   width: 110%;
