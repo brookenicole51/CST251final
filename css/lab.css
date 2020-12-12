@@ -17,7 +17,7 @@ h1 {
 .dropdown {
   position: absolute;
   top: .1%;
-  left: 85%;
+  left: 75%;
   color: #0600BE;
   font-family: halcom,sans-serif !important;
   font-weight: 600;
@@ -90,7 +90,7 @@ img {
 }
 
 .info {
-  padding-top: 100px;
+  padding-top: 10px;
   padding-right: 40px;
   padding-left: 40px;
   font-size: 20px;
