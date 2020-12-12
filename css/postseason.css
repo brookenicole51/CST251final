@@ -82,6 +82,7 @@ h1 {
 
 
 .info {
+
   padding-top: 10px;
   padding-right: 40px;
   padding-left: 40px;
@@ -116,7 +117,6 @@ h1 {
 .footer>li {
   margin-top: 100px;
   display: inline;
-  padding:200px;
 }
 
 .footer>li>a:hover {

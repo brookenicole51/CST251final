@@ -17,7 +17,7 @@ h1 {
 .dropdown {
   position: absolute;
   top: .1%;
-  left: 85%;
+  left:75%;
   color: #0600BE;
   font-family: halcom,sans-serif !important;
   font-weight: 600;
@@ -79,26 +79,20 @@ h1 {
   background-color: #00A4FF;
 }
 
-img {
-  width: 50%;
-  height: auto;
-  border-left: 05px solid #0600BE;
-  border-right: 05px solid #0600BE;
-  border-bottom: 05px solid #0600BE;
-  border-top: 05px solid #0600BE;
-  margin-left: 50px;
-  margin-bottom: 30px;
-}
+
 
 .info {
-  padding-left: 100px;
+
+  padding-top: 10px;
+  padding-right: 40px;
+  padding-left: 40px;
+  padding-bottom: 200px;
   font-size: 20px;
   font-family: halcom,sans-serif !important;
   font-weight: 400;
   font-style: normal;
-  padding-top: 0px;
-
 }
+
 
 
 .footer {
@@ -115,8 +109,8 @@ img {
 }
 
 .footer>li {
+  margin-top: 100px;
   display: inline;
-  padding:200px;
 }
 
 .footer>li>a:hover {
@@ -128,32 +122,4 @@ a {
   font-family: halcom,sans-serif !important;
   font-weight: 800;
   font-style: normal;
-}
-
-p {
-  height: auto;
-  border-left: 05px dashed #0600BE;
-  border-right: 05px dashed #0600BE;
-  border-bottom: 15px dashed #0600BE;
-  border-top: 05px dashed #0600BE;
-
-}
-
-.column {
-  float: left;
-  width: 33.33%;
-  padding: 5px;
-  padding-bottom: 100px;
-}
-
-.row::after {
-  content: "";
-  clear: both;
-  display: table;
-}
-
-.mlb {
-  padding-left: 400px;
-  padding-top: 0px;
-
 }
