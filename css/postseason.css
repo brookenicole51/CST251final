@@ -96,6 +96,10 @@ h1 {
   border-top: 10px solid #0600BE;
 }
 
+.bracket{
+  border-top: 10px solid #0600BE;
+}
+
 .footer {
   position: fixed;
   left: 0;
