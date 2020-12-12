@@ -7,8 +7,7 @@ h1 {
 }
 
 .statue {
-  border-top: 10px solid #0600BE;
-  margin-bottom: 200px
+
 }
 
 .flex1 {
@@ -119,8 +118,8 @@ img {
 }
 
 .footer>li {
-  margin-top: 600px;
   display: inline;
+  padding:200px;
 }
 
 .footer>li>a:hover {
