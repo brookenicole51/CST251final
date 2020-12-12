@@ -81,11 +81,10 @@ h1 {
 
 
 .info {
-
   padding-top: 10px;
   padding-right: 40px;
   padding-left: 40px;
-  padding-bottom: 200px;
+  padding-bottom: 50px;
   font-size: 20px;
   font-family: halcom,sans-serif !important;
   font-weight: 400;
@@ -94,8 +93,6 @@ h1 {
 
 
 .links {
-
-  padding-top: 10px;
   padding-right: 40px;
   padding-left: 40px;
   padding-bottom: 200px;
