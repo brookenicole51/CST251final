@@ -1,8 +1,35 @@
+<<<<<<< HEAD
+h1 {
+  color: white;
+  font-size: 50px;
+  font-family: halcom,sans-serif !important;
+  font-weight: 800;
+  font-style: normal;
+}
+
+.flex1 {
+  display: flex;
+  width: 110%;
+  height: auto;
+  background-color: #0600BE;
+  padding: 20px;
+}
+
+.dropdown {
+  position: absolute;
+  top: .1%;
+  left: 75%;
+  color: #0600BE;
+  font-family: halcom,sans-serif !important;
+  font-weight: 600;
+  font-style: normal;
+=======
 @media only screen and (max-width: 900px) {
   .dropdown {
     left: 45%;
     top: 18%;
   }
+>>>>>>> 58471c9a02399a91f0502d0bd2c40ad9923d8e18
 }
 .info {
   padding-top: 10px;
