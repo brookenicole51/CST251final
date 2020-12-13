@@ -20,6 +20,12 @@ h1 {
   }
 }
 
+@media only screen and (max-width: 900px) {
+  body {
+    padding-bottom: 200px;
+  }
+}
+
 .dropdown {
   position: absolute;
   top: .1%;
