@@ -8,7 +8,7 @@ h1 {
 
 .flex1 {
   display: flex;
-  width: 110%;
+  width: 100%;
   height: auto;
   background-color: #0600BE;
   padding: 20px;
@@ -119,6 +119,10 @@ img {
   text-indent: 50px;
 }
 
+iframe {
+  margin-bottom: 100px;
+  margin-left: 100px;
+}
 
 .footer {
   position: fixed;
