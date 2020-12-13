@@ -1,4 +1,23 @@
-<<<<<<< HEAD
-=======
+p {
+    padding: 20px;
+    border: 5px solid #0600BE;
+}
 
->>>>>>> c72c822c5de71d341f80dbcf76c605b24d908a71
+.info {
+  padding-top: 10%;
+  padding-left: 20%;
+  padding-right: 20%;
+}
+
+.links>li>a {
+  color: #0600BE;
+  font-size: 30px;
+}
+
+.links {
+  float: none;
+  position: absolute;
+  top: 60%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
