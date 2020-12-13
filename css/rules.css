@@ -1,0 +1,16 @@
+@media only screen and (max-width: 900px) {
+  .dropdown {
+    left: 45%;
+    top: 15%;
+  }
+}
+
+@media only screen and (max-width: 900px) {
+  .flex1 {
+    padding-bottom: 90px;
+  }
+}
+
+.flex1 {
+  width: 100%;
+}

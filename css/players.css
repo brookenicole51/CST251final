@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 h1 {
   color: white;
   font-size: 50px;
@@ -22,84 +23,24 @@ h1 {
   font-family: halcom,sans-serif !important;
   font-weight: 600;
   font-style: normal;
+=======
+@media only screen and (max-width: 900px) {
+  .dropdown {
+    left: 45%;
+    top: 18%;
+  }
+>>>>>>> 58471c9a02399a91f0502d0bd2c40ad9923d8e18
 }
-
-.dropdown-menu>li>a {
-    display: block;
-    padding: 3px 20px;
-    clear: both;
-    color: #0600BE;
-    font-family: halcom,sans-serif !important;
-    font-weight: 600;
-    font-style: normal;
-    white-space: nowrap;
-}
-
-.dropdown-menu>li>a:hover {
-    display: block;
-    padding: 3px 20px;
-    clear: both;
-    color: #00A4FF;
-    font-family: halcom,sans-serif !important;
-    font-weight: 600;
-    font-style: normal;
-    white-space: nowrap;
-}
-
-.btn-primary {
-  color: white;
-  background-color: #FF0000;
-  border: none;
-}
-
-.open>.dropdown-toggle.btn-primary:focus, .open>.dropdown-toggle.btn-primary:hover {
-    color: white;
-    background-color: #00A4FF;
-    border-color: none;
-}
-
-.btn {
-  margin-top: 25px;
-  border: none;
-  min-width: 120px;
-  min-height: 75px;
-  font-family: halcom,sans-serif !important;
-  font-weight: 600;
-  font-style: normal;
-}
-
-.btn:hover {
-  margin-top: 25px;
-  border: none;
-  min-width: 120px;
-  min-height: 75px;
-  font-family: halcom,sans-serif !important;
-  font-weight: 600;
-  font-style: normal;
-  background-color: #00A4FF;
-}
-
-img {
-  width: 50%;
-  height: auto;
-  border-left: 05px solid #0600BE;
-  border-right: 05px solid #0600BE;
-  border-bottom: 05px solid #0600BE;
-  border-top: 05px solid #0600BE;
-  margin-left: 50px;
-  margin-bottom: 30px;
-}
-
 .info {
-  padding-left: 100px;
+  padding-top: 10px;
+  padding-right: 40px;
+  padding-left: 40px;
+  padding-bottom: 200px;
   font-size: 20px;
   font-family: halcom,sans-serif !important;
   font-weight: 400;
   font-style: normal;
-  padding-top: 0px;
-
 }
-
 
 .footer {
   position: fixed;
@@ -115,8 +56,8 @@ img {
 }
 
 .footer>li {
+  margin-top: 100px;
   display: inline;
-  padding:200px;
 }
 
 .footer>li>a:hover {
@@ -128,32 +69,4 @@ a {
   font-family: halcom,sans-serif !important;
   font-weight: 800;
   font-style: normal;
-}
-
-p {
-  height: auto;
-  border-left: 05px dashed #0600BE;
-  border-right: 05px dashed #0600BE;
-  border-bottom: 15px dashed #0600BE;
-  border-top: 05px dashed #0600BE;
-
-}
-
-.column {
-  float: left;
-  width: 33.33%;
-  padding: 5px;
-  padding-bottom: 100px;
-}
-
-.row::after {
-  content: "";
-  clear: both;
-  display: table;
-}
-
-.mlb {
-  padding-left: 400px;
-  padding-top: 0px;
-
 }
